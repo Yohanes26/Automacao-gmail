@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: automacaoEmail
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ylopes
+Implementation-Vendor-Id: br.com.indra
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/automacaoEma
+ il/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

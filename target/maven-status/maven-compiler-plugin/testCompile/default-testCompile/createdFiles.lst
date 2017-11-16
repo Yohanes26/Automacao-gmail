@@ -1,0 +1,7 @@
+testes\EnviaEmail.class
+testes\Metodos.class
+configuracao\Configuracao.class
+model\DestinatarioEmail.class
+JpaRepository\DestinatarioRepository.class
+model\DadosCadastro.class
+testes\Login.class
