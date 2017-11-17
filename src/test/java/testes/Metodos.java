@@ -28,7 +28,7 @@ public class Metodos {
 	@Before
 	public void setUp() throws Exception {
 		System.setProperty("webdriver.chrome.driver",
-				"C:/Users/gloureirog/eclipse-workspace/automacaoEmail/src/chromedriver.exe");
+				"C:/Users/yohan/Desktop/workSpace/src/chromedriver.exe");
 		driver = new ChromeDriver();
 
 		driver.get(
