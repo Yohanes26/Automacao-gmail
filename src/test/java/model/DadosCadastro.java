@@ -2,8 +2,8 @@ package model;
 
 public class DadosCadastro {
 
-	private String usuario = "insira seu email";
-	private String senha = "insira sua senha";
+	private String usuario = "yohaneslopes@gmail.com";
+	private String senha = "202020";
 
 	public String getUsuario() {
 		return usuario;
