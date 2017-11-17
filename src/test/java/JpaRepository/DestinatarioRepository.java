@@ -8,6 +8,5 @@ import model.DestinatarioEmail;
 @Repository
 public interface DestinatarioRepository extends JpaRepository<DestinatarioEmail, Long> {
 
-	// @Query("select * from destinatarioemail")
-	// findAll(int id);
+
 }
